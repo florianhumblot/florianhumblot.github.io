@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Florian&#x27;s blog</title>
+      <link>https://florianhumblot.com</link>
+      <description>mostly C++, embedded and electronics</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://florianhumblot.com/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>emBO++ 2023 talk</title>
+          <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://florianhumblot.com/embo-2023/</link>
+          <guid>https://florianhumblot.com/embo-2023/</guid>
+          <description>&lt;p&gt;On the 25th of March 2023, I gave my first ever talk at a conference! This happened in Bochum, Germany, at &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;embo.io&#x2F;&quot;&gt;emBO++ 2023&lt;&#x2F;a&gt;.
+This conference is focused on embedded systems development and C++, I highly recommend watching the sessions of past years and of course, I also recommend going to the next emBO++ conference in person!&lt;&#x2F;p&gt;
+&lt;p&gt;There I gave a talk on containerization of developer environments to “get rid of ‘it works on my machine’”.
+Luckily the conference organizers recorded all the sessions and posted them on Youtube for everyone to enjoy! You can find the full emBO++ 2023 playlist &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;playlist?list=PLIXq8kws1BI18rwGhmXJ3bYImRJ_nqWEe&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you’re just interested in my talk, you can watch it here:&lt;&#x2F;p&gt;
+&lt;div &gt;
+  &lt;iframe
+    width=&quot;100%&quot;
+    height=&quot;600&quot;
+    src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;F6PiU-SSRWs&quot;
+    title=&quot;YouTube video player&quot;
+    frameborder=&quot;0&quot;
+    allow=&quot;encrypted-media; picture-in-picture; web-share&quot;
+    allowfullscreen
+  &gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;If you have any questions, you can always reach out through &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Florian_Humblot&quot;&gt;twitter&lt;&#x2F;a&gt;, an issue on &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;florianhumblot&#x2F;florianhumblot.github.io&#x2F;issues&quot;&gt;this website’s github&lt;&#x2F;a&gt; or by mailing to me &lt;script language=&quot;JavaScript&quot;&gt;
+  user = &quot;me&quot;;
+  site = &quot;florianhumblot.com&quot;;
+  document.write(&#x27;&lt;a href=&quot;mailto:&#x27; + user + &quot;@&quot; + site + &#x27;&quot;&gt;&#x27;);
+  document.write(user + &quot;(at)&quot; + site + &quot;&lt;&#x2F;a&gt;&quot;);
+&lt;&#x2F;script&gt;
+.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
